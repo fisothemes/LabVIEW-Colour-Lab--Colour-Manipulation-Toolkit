@@ -12,8 +12,10 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Benchmark Tests.vi" Type="VI" URL="../Benchmark Tests.vi"/>
 		<Item Name="Colour to RGB.vi" Type="VI" URL="../Colour to RGB.vi"/>
+		<Item Name="HSL to RGB.vi" Type="VI" URL="../HSL to RGB.vi"/>
 		<Item Name="HSV to RGB.vi" Type="VI" URL="../HSV to RGB.vi"/>
 		<Item Name="RGB to Colour.vi" Type="VI" URL="../RGB to Colour.vi"/>
+		<Item Name="RGB to HSL.vi" Type="VI" URL="../RGB to HSL.vi"/>
 		<Item Name="RGB to HSV.vi" Type="VI" URL="../RGB to HSV.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">

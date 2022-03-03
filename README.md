@@ -5,13 +5,11 @@ A labview toolkit for fast and simple RGB, HSV, HSL, HEX or DEC colour conversio
 
 - [x] Benchmark Tests
 - [x] Colour to RGB
-- [ ] HSL to RGB*
+- [x] HSL to RGB
 - [x] HSV to RGB
 - [x] RGB to Colour
-- [ ] RGB to HSL*
+- [x] RGB to HSL
 - [x] RGB to HSV
-
-<sup>* WIP - Work-In-Progress</sup>
 
 # Minimum Requirements
 * LabVIEW 2018 (32/64 bit)
@@ -43,5 +41,17 @@ A labview toolkit for fast and simple RGB, HSV, HSL, HEX or DEC colour conversio
 ![RGB to HSV Block Diagram](./assets/images/RGB-to-HSV-Block-Diagram.png)
 
 <sub>*Equation located on [www.rapidtables.com](https://www.rapidtables.com/convert/color/rgb-to-hsv.html) </sub>
+- - - -
+**HSL to RGB:** 
+
+![HSV to RGB Block Diagram](./assets/images/HSL-to-RGB-Block-Diagram.png)
+
+<sub>*Equation located on [www.rapidtables.com](https://www.rapidtables.com/convert/color/hsl-to-rgb.html) </sub>
+- - - -
+**RGB to HSL:** 
+
+![RGB to HSV Block Diagram](./assets/images/RGB-to-HSL-Block-Diagram.png)
+
+<sub>*Equation located on [www.rapidtables.com](https://www.rapidtables.com/convert/color/rgb-to-hsl.html) </sub>
 
 
