@@ -8,27 +8,27 @@
 
 </Property>
 	<Item Name="Colour to Value" Type="Folder">
-		<Item Name="Colour to CMYK.vi" Type="VI" URL="../Colour to CMYK.vi"/>
-		<Item Name="Colour to HSL.vi" Type="VI" URL="../Colour to HSL.vi"/>
-		<Item Name="Colour to HSV.vi" Type="VI" URL="../Colour to HSV.vi"/>
-		<Item Name="Colour to RGB.vi" Type="VI" URL="../Colour to RGB.vi"/>
+		<Item Name="Colour to CMYK.vi" Type="VI" URL="../VIs/Colour to CMYK.vi"/>
+		<Item Name="Colour to HSL.vi" Type="VI" URL="../VIs/Colour to HSL.vi"/>
+		<Item Name="Colour to HSV.vi" Type="VI" URL="../VIs/Colour to HSV.vi"/>
+		<Item Name="Colour to RGB.vi" Type="VI" URL="../VIs/Colour to RGB.vi"/>
 	</Item>
 	<Item Name="Inversion" Type="Folder"/>
 	<Item Name="RGB to Value" Type="Folder">
-		<Item Name="RGB to CMYK.vi" Type="VI" URL="../RGB to CMYK.vi"/>
-		<Item Name="RGB to Colour.vi" Type="VI" URL="../RGB to Colour.vi"/>
-		<Item Name="RGB to HSL.vi" Type="VI" URL="../RGB to HSL.vi"/>
-		<Item Name="RGB to HSV.vi" Type="VI" URL="../RGB to HSV.vi"/>
+		<Item Name="RGB to CMYK.vi" Type="VI" URL="../VIs/RGB to CMYK.vi"/>
+		<Item Name="RGB to Colour.vi" Type="VI" URL="../VIs/RGB to Colour.vi"/>
+		<Item Name="RGB to HSL.vi" Type="VI" URL="../VIs/RGB to HSL.vi"/>
+		<Item Name="RGB to HSV.vi" Type="VI" URL="../VIs/RGB to HSV.vi"/>
 	</Item>
 	<Item Name="Value to Colour" Type="Folder">
-		<Item Name="CMYK to Colour.vi" Type="VI" URL="../CMYK to Colour.vi"/>
-		<Item Name="HSL to Colour.vi" Type="VI" URL="../HSL to Colour.vi"/>
-		<Item Name="HSV to Colour.vi" Type="VI" URL="../HSV to Colour.vi"/>
+		<Item Name="CMYK to Colour.vi" Type="VI" URL="../VIs/CMYK to Colour.vi"/>
+		<Item Name="HSL to Colour.vi" Type="VI" URL="../VIs/HSL to Colour.vi"/>
+		<Item Name="HSV to Colour.vi" Type="VI" URL="../VIs/HSV to Colour.vi"/>
 	</Item>
 	<Item Name="Value to RGB" Type="Folder">
-		<Item Name="CMYK to RGB.vi" Type="VI" URL="../CMYK to RGB.vi"/>
-		<Item Name="HSL to RGB.vi" Type="VI" URL="../HSL to RGB.vi"/>
-		<Item Name="HSV to RGB.vi" Type="VI" URL="../HSV to RGB.vi"/>
+		<Item Name="CMYK to RGB.vi" Type="VI" URL="../VIs/CMYK to RGB.vi"/>
+		<Item Name="HSL to RGB.vi" Type="VI" URL="../VIs/HSL to RGB.vi"/>
+		<Item Name="HSV to RGB.vi" Type="VI" URL="../VIs/HSV to RGB.vi"/>
 	</Item>
-	<Item Name="Benchmark Tests.vi" Type="VI" URL="../Benchmark Tests.vi"/>
+	<Item Name="Benchmark Tests.vi" Type="VI" URL="../VIs/Benchmark Tests.vi"/>
 </Library>

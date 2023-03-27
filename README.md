@@ -1,5 +1,5 @@
 # LabVIEW Colour Lab
-A labview toolkit for fast and simple RGB, HSV, HSL, CMYK, YUV, HEX or DEC colour manipulation
+A LabVIEW toolkit for fast and simple RGB, HSV, HSL, CMYK, HEX or DEC colour manipulation
 
 **The Project includes the following tools/VIs:**
 
@@ -10,7 +10,6 @@ A labview toolkit for fast and simple RGB, HSV, HSL, CMYK, YUV, HEX or DEC colou
 - [x] Colour to HSL
 - [x] Colour to HSV
 - [x] Colour to RGB
-- [ ] Colour to YUV*
 - [x] HSL to Colour
 - [x] HSL to RGB
 - [x] HSV to Colour
@@ -19,11 +18,6 @@ A labview toolkit for fast and simple RGB, HSV, HSL, CMYK, YUV, HEX or DEC colou
 - [x] RGB to Colour
 - [x] RGB to HSL
 - [x] RGB to HSV
-- [ ] RGB to YUV*
-- [ ] YUV to RGB*
-- [ ] YUV to Colour*
-
-<sub>* work-in-progress</sub>
 
 <sub>Note: Colour can be represented as a DEC or HEX in LabVIEW</sub>
 
@@ -69,8 +63,3 @@ A labview toolkit for fast and simple RGB, HSV, HSL, CMYK, YUV, HEX or DEC colou
 ![RGB to HSV Block Diagram](./assets/images/RGB-to-HSL-Block-Diagram.png)
 
 <sub>*Equation located on [www.rapidtables.com](https://www.rapidtables.com/convert/color/rgb-to-hsl.html) </sub>
-
-# Upcoming Features
-- [ ] Colour Changer
-- [ ] Colour Inverter
-- [ ] Image Manipulation
