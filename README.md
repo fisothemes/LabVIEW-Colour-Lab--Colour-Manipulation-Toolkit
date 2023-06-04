@@ -1,5 +1,5 @@
 # LabVIEW Colour Lab
-A LabVIEW toolkit for fast and simple RGB, HSV, HSL, CMYK, HEX or DEC colour manipulation
+A LabVIEW toolkit for colour manipulation.
 
 **The Project includes the following tools/VIs:**
 
@@ -18,48 +18,23 @@ A LabVIEW toolkit for fast and simple RGB, HSV, HSL, CMYK, HEX or DEC colour man
 - [x] RGB to Colour
 - [x] RGB to HSL
 - [x] RGB to HSV
+- [x] Additive Colour Mixer
+- [x] Subtractive Colour Mixer
+- [x] RGB Luminosity
+- [x] Colour to Greyscale
+- [x] Invert Colour
+
 
 <sub>Note: Colour can be represented as a DEC or HEX in LabVIEW</sub>
 
 # Minimum Requirements
-* LabVIEW 2018 (32/64 bit)
+* LabVIEW 2018 (32/64 bit) and above
 
-# Code Snippets
 
- **Benchmarks:**
+# Showcase
+![showcase](./assets/images/showcase.png)
 
-![RGB to HSV Benchmark](./assets/images/RGB-to-HSV-Benchmark.png)
-![HSV to Colour Benchmark](./assets/images/HSV-to-Colour-Benchmark.png)
-- - - -
+# Example
 
-**Colour to RGB:** 
-
-![Colour to RGB Block Diagram](./assets/images/Colour-to-RGB-Block-Diagram.png)
-- - - -
-**RGB to Colour:** 
-
-![RGB to Colour Block Diagram](./assets/images/RGB-to-Colour-Block-Diagram.png)
-- - - -
-**HSV to RGB:** 
-
-![HSV to RGB Block Diagram](./assets/images/HSV-to-RGB-Block-Diagram.png)
-
-<sub>*Equation located on [www.rapidtables.com](https://www.rapidtables.com/convert/color/hsv-to-rgb.html) </sub>
-- - - -
-**RGB to HSV:** 
-
-![RGB to HSV Block Diagram](./assets/images/RGB-to-HSV-Block-Diagram.png)
-
-<sub>*Equation located on [www.rapidtables.com](https://www.rapidtables.com/convert/color/rgb-to-hsv.html) </sub>
-- - - -
-**HSL to RGB:** 
-
-![HSV to RGB Block Diagram](./assets/images/HSL-to-RGB-Block-Diagram.png)
-
-<sub>*Equation located on [www.rapidtables.com](https://www.rapidtables.com/convert/color/hsl-to-rgb.html) </sub>
-- - - -
-**RGB to HSL:** 
-
-![RGB to HSV Block Diagram](./assets/images/RGB-to-HSL-Block-Diagram.png)
-
-<sub>*Equation located on [www.rapidtables.com](https://www.rapidtables.com/convert/color/rgb-to-hsl.html) </sub>
+![colour manipulation](./assets/images/image-colour-manipulation.fp.png)
+![colour manipulation](./assets/images/image-colour-manipulation.bd.png)
